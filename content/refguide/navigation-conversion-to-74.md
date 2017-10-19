@@ -14,7 +14,7 @@ Also, to prevent confusion while working with profiles, having more than one pro
 
 For projects based on Mendix 7.1 and below, conversion to Mendix 7.4 is seamless.
 
-In Mendix versions 7.2 and 7.3, miltiple profiles with different names and same types were possible. So, before converting from these versions, be sure to check the list of navigation profiles in your project and make sure they fulfill certain requirements.
+In Mendix versions 7.2 and 7.3, multiple profiles with different names and same types were possible. So, before converting from these versions, be sure to check the list of navigation profiles in your project and make sure they fulfill certain requirements.
 
 ## 3 Hybrid App Profiles Requirements
 
